@@ -11,7 +11,6 @@ services:
       - key: BOT_TOKEN
         # value: BOT_TOKEN
         sync: false
-        sync: false
       - key: OWNER_ID
         # value: OWNER_ID
         sync: false
